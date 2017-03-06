@@ -1,0 +1,108 @@
+h1,h2,h3,h4,h5,h6
+{
+color:#000000;
+text-shadow:0px 0px 10px #FFFFFF;
+
+}
+body
+{
+color:#FFFFFF;
+background-color:#337AB7 !important;
+
+}
+.alert-success
+{
+    color:#85DB18;
+    border-color:#85DB18;
+    border-width:3px;
+    border-radius: 20px;
+    background-color:rgba(0,0,0,0)
+}
+.alert-info
+{
+    color:#FFFFFF;
+    border-color: #FFFFFF;
+    border-width: 3px;
+    border-radius: 20px;
+    background-color:rgba(0,0,0,0)
+}
+.alert-warning
+{
+    color:#FFFFA6;
+    border-color:#FFFFA6;
+    border-width:3px;
+    border-radius:20px;
+    background-color:rgba(0,0,0,0)
+}
+.alert-danger
+{
+    color:#FF974F;
+    border-color:#FF974F;
+    border-width:3px;
+    border-radius:20px;
+    background-color:rgba(0,0,0,0)
+}
+#ui-toc-affix {
+    border:#CCF2FF; 
+    border-width: 3px;
+    border-style: dashed; 
+    background-color: rgba(204, 242, 255,0.7);
+}
+a[smoothhashscroll=""]{
+    color: #000000 !important;
+}
+a[smoothhashscroll=""]:hover{
+    color: #000000 !important;
+}
+#permissionLabel
+{
+color:#000000;
+}
+blockquote
+{
+color:#000000 !important;
+    background-color: rgba(204, 242, 255,0.7);
+}
+.ui-infobar
+{
+color:#FFFFFF;
+}
+a[data-toggle=“dropdown”]
+{
+ 
+}
+a[data-toggle=“dropdown”]:hover
+{
+
+}
+.ui-toc-label:hover
+{
+ background-color:#FFFFFF;
+}
+.ui-toc-label
+{
+ background-color:#FFFFFF;
+}
+a[smoothhashscroll=""]{
+    color:#000000!important;
+}
+a[smoothhashscroll=""]:hover{
+    color:#000000!important;
+    font-weight:bold;
+    text-shadow: 0px 0px 2px #FFFFFF
+}
+.ui-toc-dropdown
+{
+    border:#CCF2FF; 
+    border-width: 3px;
+    border-style: dashed; 
+    background-color: rgba(204, 242, 255,0.7);
+}
+.expand-toggle,.back-to-top,.go-to-bottom
+{
+    color:#000000;
+}
+.expand-toggle:hover,.back-to-top:hover,.go-to-bottom:hover
+{
+    text-shadow: 0px 0px 2px #FFFFFF
+}
